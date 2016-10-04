@@ -6,9 +6,10 @@ You can see result/effect of this sample below.
 
 ![](https://kylewbanks.com/images/post/android-animate-toolbar-color-1.gif?raw=true)
 
+
+### 2. Jni Protection 
+This demo shows how to use Jni check sign key signature, if we do this, that can prevent our apk from hacking. 
+
 ### Version
-1.0
-
-
-
+1.0 
 
