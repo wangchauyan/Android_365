@@ -10,6 +10,17 @@ You can see result/effect of this sample below.
 ### 2. Jni Protection 
 This demo shows how to use Jni check sign key signature, if we do this, that can prevent our apk from hacking. 
 
+
+### 3. Blur Effect (StackBlur Algorithm)
+This demo shows how to use "software-way" to create blur effect like iOS on Android platform 
+
+Before Blur Effect. / After Blur Effect.
+
+<img src="https://github.com/wangchauyan/Android_365/blob/master/Android_365_BlurEffect/img/Before_Blur.png" width="320" height="568">
+<img src="https://github.com/wangchauyan/Android_365/blob/master/Android_365_BlurEffect/img/Before_Blur.png" width="320" height="568">
+
+
+
 ### Version
 1.0 
 
