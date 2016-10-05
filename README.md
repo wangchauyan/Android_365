@@ -17,7 +17,7 @@ This demo shows how to use "software-way" to create blur effect like iOS on Andr
 Before Blur Effect. / After Blur Effect.
 
 <img src="https://github.com/wangchauyan/Android_365/blob/master/Android_365_BlurEffect/img/Before_Blur.png" width="320" height="568">
-<img src="https://github.com/wangchauyan/Android_365/blob/master/Android_365_BlurEffect/img/Before_Blur.png" width="320" height="568">
+<img src="https://github.com/wangchauyan/Android_365/blob/master/Android_365_BlurEffect/img/After_Blur.png" width="320" height="568">
 
 
 
