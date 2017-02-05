@@ -13,9 +13,17 @@ You can check the video here:
 
 This video shows how to do transition animations, following images are transition effects. 
 
-[Circle Transition]<img src="demo/circle_transition.png" height="400" alt="Circle Transition"/>
-[Grid Transition]<img src="demo/grid_trasition.png" height="400" alt="Grid Transition"/>
-[WaterWave Transition]<img src="demo/waterwave_transition.png" height="400" alt="WaterWave Transition"/>
+[Circle Transition]
+
+<img src="demo/circle_transition.png" height="400" alt="Circle Transition"/>
+
+[Grid Transition]
+
+<img src="demo/grid_trasition.png" height="400" alt="Grid Transition"/>
+
+[WaterWave Transition]
+
+<img src="demo/waterwave_transition.png" height="400" alt="WaterWave Transition"/>
 
 ### Detail
 
