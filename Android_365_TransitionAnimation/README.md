@@ -8,8 +8,14 @@ This repo is showing how to do transition animation by yourself in a fancy way. 
   - WaterWave Transition 
 
 You can check the video here:
+
 [![Android Transition Video](https://j.gifs.com/GZ7xWQ.gif)](https://youtu.be/69SLWlwC79w)
-This video shows how to do transition animations. 
+
+This video shows how to do transition animations, following images are transition effects. 
+
+[Circle Transition]<img src="demo/circle_transition.png" height="400" alt="Circle Transition"/>
+[Grid Transition]<img src="demo/grid_trasition.png" height="400" alt="Grid Transition"/>
+[WaterWave Transition]<img src="demo/waterwave_transition.png" height="400" alt="WaterWave Transition"/>
 
 ### Detail
 
