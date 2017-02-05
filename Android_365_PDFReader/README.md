@@ -13,8 +13,8 @@ This demo shows how to render a pdf file in android and use this App as a pdf vi
 ##### Screenshots
 -------------
 
-<img src="Android_365_PDFReader/img/screenshot_1.png" height="400" alt="Screenshot 1"/>
-<img src="Android_365_PDFReader/img/screenshot_2.png" height="400" alt="Screenshot 2"/>  
+<img src="img/screenshot_1.png" height="400" alt="Screenshot 1"/>
+<img src="img/screenshot_2.png" height="400" alt="Screenshot 2"/>  
 
 
 ##### Warning 
