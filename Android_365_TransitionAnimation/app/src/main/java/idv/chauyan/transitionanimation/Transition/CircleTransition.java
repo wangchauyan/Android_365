@@ -1,11 +1,11 @@
-package idv.chauyan.transitionanimation.Transition;
+package idv.chauyan.transitionanimation.transition;
 
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
 import android.graphics.Path;
 import android.view.View;
 
-import idv.chauyan.transitionanimation.CustomizedView.AnimationContainer;
+import idv.chauyan.transitionanimation.customizedview.AnimationContainer;
 
 /**
  * Created by ChauyanWang on 2/5/17.

@@ -1,4 +1,4 @@
-package idv.chauyan.transitionanimation.Transition;
+package idv.chauyan.transitionanimation.transition;
 
 import android.graphics.Bitmap;
 import android.graphics.Canvas;

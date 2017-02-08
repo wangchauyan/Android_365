@@ -1,4 +1,4 @@
-package idv.chauyan.transitionanimation.CustomizedView;
+package idv.chauyan.transitionanimation.customizedview;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -9,7 +9,7 @@ import android.util.AttributeSet;
 import android.view.ViewTreeObserver;
 import android.widget.FrameLayout;
 
-import idv.chauyan.transitionanimation.Transition.Transition;
+import idv.chauyan.transitionanimation.transition.Transition;
 
 /**
  * Created by ChauyanWang on 2/5/17.

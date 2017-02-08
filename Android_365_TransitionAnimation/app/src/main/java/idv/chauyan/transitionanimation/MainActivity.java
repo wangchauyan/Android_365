@@ -13,10 +13,10 @@ import com.mikepenz.materialdrawer.model.DividerDrawerItem;
 import com.mikepenz.materialdrawer.model.PrimaryDrawerItem;
 import com.mikepenz.materialdrawer.model.interfaces.IDrawerItem;
 
-import idv.chauyan.transitionanimation.CustomizedView.AnimationContainer;
-import idv.chauyan.transitionanimation.Fragment.MainImageFragment;
-import idv.chauyan.transitionanimation.Transition.Transition;
-import idv.chauyan.transitionanimation.Transition.TransitionProvider;
+import idv.chauyan.transitionanimation.customizedview.AnimationContainer;
+import idv.chauyan.transitionanimation.fragment.MainImageFragment;
+import idv.chauyan.transitionanimation.transition.Transition;
+import idv.chauyan.transitionanimation.transition.TransitionProvider;
 
 
 public class MainActivity extends AppCompatActivity {

@@ -1,4 +1,4 @@
-package idv.chauyan.transitionanimation.Transition;
+package idv.chauyan.transitionanimation.transition;
 
 /**
  * Created by ChauyanWang on 2/5/17.

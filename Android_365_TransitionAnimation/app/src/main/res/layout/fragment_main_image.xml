@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="idv.chauyan.transitionanimation.Fragment.MainImageFragment">
+    tools:context="idv.chauyan.transitionanimation.fragment.MainImageFragment">
     <ImageView
         android:id="@+id/ironManImage"
         android:layout_width="match_parent"

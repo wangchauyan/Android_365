@@ -1,4 +1,4 @@
-package idv.chauyan.transitionanimation.Fragment;
+package idv.chauyan.transitionanimation.fragment;
 
 
 import android.os.Bundle;
